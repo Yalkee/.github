@@ -14,4 +14,4 @@
 
 ---
 
-📧 [Telegram](yalkee_dev) | [Email](mailto:yalkee@mail.ru)
+📧 [Telegram](t.me/yalkee_dev) | [Email](mailto:yalkee@mail.ru)
